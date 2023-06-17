@@ -1,11 +1,12 @@
 extends layout
 
 block content
-  h1 Message board
+  h1 Mini message board
 
   ul
     each datas in data
-      li=datas.user
+      li
+        p(class="user")=datas.user
         p=datas.text
         p=datas.date
   a(href="/new") fill out the form

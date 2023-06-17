@@ -23,3 +23,12 @@ form{
   display: flex;
   flex-direction: column;
 }
+
+li{
+  list-style: none;
+  padding: 20px;
+}
+
+.user {
+  font-weight: bolder;
+}
