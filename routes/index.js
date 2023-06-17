@@ -8,7 +8,7 @@ const message = [
     date : Date()
   },
   {
-    user : "Lucious lion",
+    user : "Jamal lion",
     text : "Hi there",
     date : Date() 
   },
