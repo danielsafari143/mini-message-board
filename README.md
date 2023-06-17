@@ -1,2 +1,2 @@
 # mini-message-board
-(Live version)[live](https://mini-message-board-ztr3.onrender.com/)https://mini-message-board-ztr3.onrender.com/]
+(Live version)[live][https://mini-message-board-ztr3.onrender.com/]
