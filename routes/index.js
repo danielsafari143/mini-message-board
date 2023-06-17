@@ -3,17 +3,17 @@ var router = express.Router();
 
 const message = [
   {
-    user : "Danie safari",
+    user : "John smith",
     text : "Hi there",
     date : Date()
   },
   {
-    user : "Rodrigue safari",
+    user : "Lucious lion",
     text : "Hi there",
     date : Date() 
   },
   {
-    user : "Kerene safari",
+    user : "Andrews Lion",
     text : "Hi there",
     date : Date() 
   }
